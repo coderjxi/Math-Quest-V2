@@ -24,3 +24,4 @@ Open `index.html` in a modern web browser. XP is saved in the browser's local st
 
 - `index.html` — the app UI, styles, topic catalog, quiz logic, and local XP persistence
 - `README.md` — project overview and creation notes
+
